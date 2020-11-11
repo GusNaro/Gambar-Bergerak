@@ -7,3 +7,12 @@ c:\users\narotama\onedrive\dokumen\visual studio 2015\Projects\Gambar Bergerak\G
 c:\users\narotama\onedrive\dokumen\visual studio 2015\Projects\Gambar Bergerak\Gambar Bergerak\bin\Debug\Gambar Bergerak.pdb
 c:\users\narotama\onedrive\dokumen\visual studio 2015\Projects\Gambar Bergerak\Gambar Bergerak\obj\Debug\Gambar Bergerak.exe
 c:\users\narotama\onedrive\dokumen\visual studio 2015\Projects\Gambar Bergerak\Gambar Bergerak\obj\Debug\Gambar Bergerak.pdb
+C:\Users\igbna\OneDrive\Documents\GitHub\Gambar Bergerak\Gambar Bergerak\bin\Debug\Gambar Bergerak.exe.config
+C:\Users\igbna\OneDrive\Documents\GitHub\Gambar Bergerak\Gambar Bergerak\obj\Debug\Gambar Bergerak.exe
+C:\Users\igbna\OneDrive\Documents\GitHub\Gambar Bergerak\Gambar Bergerak\obj\Debug\Gambar Bergerak.pdb
+C:\Users\igbna\OneDrive\Documents\GitHub\Gambar Bergerak\Gambar Bergerak\bin\Debug\Gambar Bergerak.exe
+C:\Users\igbna\OneDrive\Documents\GitHub\Gambar Bergerak\Gambar Bergerak\bin\Debug\Gambar Bergerak.pdb
+C:\Users\igbna\OneDrive\Documents\GitHub\Gambar Bergerak\Gambar Bergerak\obj\Debug\Gambar Bergerak.csprojResolveAssemblyReference.cache
+C:\Users\igbna\OneDrive\Documents\GitHub\Gambar Bergerak\Gambar Bergerak\obj\Debug\Gambar_Bergerak.Form1.resources
+C:\Users\igbna\OneDrive\Documents\GitHub\Gambar Bergerak\Gambar Bergerak\obj\Debug\Gambar_Bergerak.Properties.Resources.resources
+C:\Users\igbna\OneDrive\Documents\GitHub\Gambar Bergerak\Gambar Bergerak\obj\Debug\Gambar Bergerak.csproj.GenerateResource.Cache
